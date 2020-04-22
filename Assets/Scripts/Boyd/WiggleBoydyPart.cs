@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Boyd {
+namespace Boyds {
 	public class WiggleBoydyPart : MonoBehaviour {
 
 		public float wiggleSpeed = 0.5f;
